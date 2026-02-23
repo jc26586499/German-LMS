@@ -7,7 +7,6 @@
 ---
 
 ## 🎬 Live Demo | 實機演示
-### Admin
 <p align="center">
   <video src="https://github.com/user-attachments/assets/e2c78cb4-d9a7-435d-bc02-b37acc66b53b" width="850" autoplay loop muted controls></video>
 </p>
