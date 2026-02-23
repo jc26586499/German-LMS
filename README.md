@@ -9,12 +9,12 @@
 ## 🎬 Live Demo | 實機演示
 ### Admin
 <p align="center">
-  <video src="https://github.com/jc26586499/German-LMS/raw/main/admin.mp4" width="850" autoplay loop muted controls></video>
+  <video src="https://github.com/user-attachments/assets/e2c78cb4-d9a7-435d-bc02-b37acc66b53b" width="850" autoplay loop muted controls></video>
 </p>
 
 ### Users
 <p align="center">
-  <video src="https://github.com/jc26586499/German-LMS/raw/main/users.mp4" width="850" autoplay loop muted controls></video>
+  <video src="https://github.com/user-attachments/assets/18499188-14be-4baf-b734-d7b1df2fd810" width="850" autoplay loop muted controls></video>
 </p>
 
 
