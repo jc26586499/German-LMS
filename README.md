@@ -22,14 +22,14 @@
 
 ## 🚀 Core Features
 
-###📝 Learning & Quiz Engine
+### 📝 Learning & Quiz Engine
 
 *  **Thematic Categorization (單字分類系統)**：依主題（如：水果 `Fruits`、國家 `Countries`）分類，有系統地擴充詞彙。
 *  **Image-Association Memory (圖像記憶法)**：採用「圖像路徑法」，透過 `JLabel` 動態顯示圖片，強化長效記憶。
 *  **Hint System (智慧提示)**：測驗中遇到困難時，點選「Hint」即可彈出對應的圖片提示。
 *  **Error Tracking (錯題管理)**：自動統計錯誤超過 3 次的單字，生成專屬「弱點複習清單」。
 
-###🗓️ Habit Tracker (Daily Check-in)
+### 🗓️ Habit Tracker (Daily Check-in)
 
 *  **Visual Calendar (打卡月曆)**：自定義繪製組件，綠色標記當月進度，學習成果一眼瞬間。
 *  **Streak Logic (連勝紀錄)**：自動計算連續打卡天數，透過天數累積提升使用者的學習成就感。
@@ -38,13 +38,13 @@
     * **Day 20**：`+50 Points` 🔥
     * **Full Month**：`+100 Points` 🏆
 
-###💳 Virtual Economy (Mock Economy)
+### 💳 Virtual Economy (Mock Economy)
 
 *  **Point-Based Unlocking (點數解鎖)**：透過打卡賺取點數，用以購買並解鎖進階單字主題包。
 *  **Tiered Access (權限管理)**：基礎類別（如：水果）免費開放；進階類別（如：國家、氣候）需點數購買。
 *  **Top-up Simulation (模擬加值)**：支援自主加值（如：儲值 $500 = 500 點），具備數值驗證與餘額即時更新。
 
-###⚙️ Admin & Data Export
+### ⚙️ Admin & Data Export
 
 *  **Vocabulary Management**：管理員可透過表格介面即時維護單字、中文意思及圖片路徑。
 *  **Data Export (Excel 匯出)**：支援將單字庫與交易紀錄匯出為 Excel，方便數據分析與離線備份。
