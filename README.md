@@ -1,7 +1,7 @@
 # 🇩🇪 German Learning Management System (LMS)
 ### **德文單字學習管理系統**
 
-> **A professional Java Swing desktop application designed to gamify German learning through habit tracking, visual memory association, and a virtual economy."**
+> **A professional Java Swing desktop application designed to gamify German learning through habit tracking, visual memory association, and a virtual economy.**/br
 > **這是一款Java Swing 桌面應用程式，結合習慣追蹤、圖像記憶法與虛擬點數經濟，讓德文學習更具遊戲化趣味與動力。**
 
 ---
