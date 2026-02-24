@@ -25,7 +25,7 @@
 
 ### 🗓️ Habit Tracker (Daily Check-in)
 
-*  **Visual Calendar (打卡月曆)**：自定義繪製組件，綠色標記當月進度，學習成果一眼瞬間。
+*  **Visual Calendar (打卡月曆)**：自定義繪製組件，綠色標記當月進度。
 *  **Streak Logic (連勝紀錄)**：自動計算連續打卡天數，透過天數累積提升使用者的學習成就感。
 *  **Milestone Rewards (里程碑獎勵)**：
     * **Day 3**：`+15 Points` 🎉
