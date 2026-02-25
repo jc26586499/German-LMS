@@ -1,4 +1,4 @@
-# 🇩🇪 German Learning Management System (LMS)
+# German Learning Management System (LMS)
 ### **德文單字學習管理系統**
 
 > **A professional Java Swing desktop application designed to gamify German learning through habit tracking, visual memory association, and a virtual economy.**  
